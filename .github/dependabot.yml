@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "maven" # Or "pip", "maven", etc.
     directory: "/"           # Directory containing the dependency file
     schedule:
-      interval: "daily"      # Frequency of updates
+      interval: "weekly"      # Frequency of updates
